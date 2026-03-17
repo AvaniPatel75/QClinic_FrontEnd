@@ -1,0 +1,11 @@
+const String healthEndpoint='health';
+const String authEndpoint='auth/login';
+const String appointmentsEndpoint='appointments';
+const String appointmentsMyEndpoint='appointments/my';
+const String queueEndpoint='queue';
+const String doctorQueueEndpoint='doctor/queue';
+const String prescriptionsMyEndpoint='prescriptions/my';
+const String prescriptionsEndpoint='prescriptions';
+const String reportsEndpoint='reports';
+const String adminClinicEndpoint='admin/clinic';
+const String adminUsersEndpoint='admin/users';
